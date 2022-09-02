@@ -6,3 +6,4 @@ This 5-listfilesdigitsonly file shows the files in long format and by user ID
 The file 6-firstdirectory is to open a directory inside another
 Move the file
 This file 8-firstdelete deletes a file
+Deleting Directory
