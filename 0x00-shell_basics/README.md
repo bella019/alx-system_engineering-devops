@@ -12,3 +12,4 @@ Listing
 Print file type
 Symbolic link
 Copying html file
+Moving all files with upper case
