@@ -10,3 +10,4 @@ Deleting Directory
 Moving back a directory
 Listing
 Print file type
+Symbolic link
