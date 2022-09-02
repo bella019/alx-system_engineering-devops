@@ -9,3 +9,4 @@ This file 8-firstdelete deletes a file
 Deleting Directory
 Moving back a directory
 Listing
+Print file type
