@@ -13,4 +13,4 @@ Print file type
 Symbolic link
 Copying html file
 Moving all files with upper case
-Deleting all files with ~
+Deleting all files with ~Creating directories in directories
