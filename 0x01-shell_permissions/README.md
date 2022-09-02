@@ -4,3 +4,4 @@ List groups current user is on
 Change file ownership to new owner
 open empty file
 Add executing permissions
+Give multiple permissions
