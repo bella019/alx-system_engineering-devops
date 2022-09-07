@@ -1,2 +1,3 @@
 #!/bin/bash
-less. /iacta |head -3 | tail -1
+less ./iacta |head -3 | tail -1
+
